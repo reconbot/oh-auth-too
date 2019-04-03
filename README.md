@@ -139,14 +139,10 @@ const googleOAuth = async code => {
 - protects grants from forgery
 - protects users from phishing
 
----
-
-# Grants give access to the server not the user
-
-^ we never gave it to millie
+^ Grants given to the server not the user
 
 ---
 
-![fit](ice.jpg) ![fit](millie.jpg)
+![](ice.jpg) ![](millie.jpg)
 
 ^ thanks!
